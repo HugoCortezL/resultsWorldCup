@@ -20,7 +20,6 @@ export default function GameAccordion({ data }) {
         return totalHeight
     }
 
-    console.log(data.groups)
 
     useEffect(() => {
         setHeight(countGames(data.groups))
@@ -39,7 +38,7 @@ export default function GameAccordion({ data }) {
                     data.groups.map(group => {
                         const key = Math.random()
                         return (
-                            <GroupMatches key={key} group={group}/>
+                            <GroupMatches key={key} group={group} />
                         )
                     })
                 }

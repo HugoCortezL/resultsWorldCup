@@ -1,4 +1,4 @@
-import {GamesContainer} from './styles'
+import { GamesContainer } from './styles'
 import games from '../../api/games.json'
 import GameAccordion from '../GameAccordion'
 
@@ -8,7 +8,7 @@ export default function Games() {
             {
                 games.map(game => {
                     return (
-                        <GameAccordion data={game} key={game.date}/>
+                        <GameAccordion data={game} key={game.date} />
                     )
                 })
             }

@@ -1,9 +1,17 @@
-import {TableContainer} from './styles'
+import { TableContainer } from './styles'
+import tables from '../../api/table.json'
+import TableAccordion from '../TableAccordion'
 
 export default function Table() {
     return (
         <TableContainer>
-            Pagina table
+            {
+                tables.map(table => {
+                    return (
+                        <TableAccordion data={table} key={table.group} />
+                    )
+                })
+            }
         </TableContainer>
     )
 }

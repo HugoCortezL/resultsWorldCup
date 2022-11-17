@@ -16,10 +16,10 @@ export default function Home() {
                 <img src={logo} alt="logo da copa do mundo" className="logo" />
             </div>
             <TabsContainer>
-                <div className={tabToShow == "games" ? "active" : ""} onClick={() => setTabToShow("games") }>
+                <div className={tabToShow == "games" ? "active" : ""} onClick={() => setTabToShow("games")}>
                     Jogos
                 </div>
-                <div className={tabToShow == "table" ? "active" : ""} onClick={() => setTabToShow("table") }>
+                <div className={tabToShow == "table" ? "active" : ""} onClick={() => setTabToShow("table")}>
                     Tabela
                 </div>
             </TabsContainer>

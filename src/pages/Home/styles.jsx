@@ -1,7 +1,6 @@
 import styled from 'styled-components'
 
-export const HomeContainer = styled.div`
-    
+export const HomeContainer = styled.div`    
     .logo-container{
         width: 100vw;
         display: flex;

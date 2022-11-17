@@ -1,4 +1,4 @@
-import { GroupMatchesContainer, MatchCard } from './styles'
+import { TableGroupContainer } from './styles'
 
 import arabia from '../../assets/images/arabia-flag.svg'
 import argentina from '../../assets/images/argentina-flag.svg'
@@ -34,8 +34,7 @@ import usa from '../../assets/images/usa-flag.svg'
 import wales from '../../assets/images/wales-flag.svg'
 import noneFlag from '../../assets/images/none-flag.svg'
 
-
-export default function GroupMatches({ group }) {
+export default function TableGroup({ team, index }) {
 
     const setFlag = (flag) => {
         if (flag == "arabia-flag") {
@@ -140,53 +139,35 @@ export default function GroupMatches({ group }) {
 
     }
 
-
     return (
-        <GroupMatchesContainer>
-            <p className='title'>
-                {group.group}
-            </p>
-            {
-                group.games.map(game => {
-                    const key = Math.random()
-                    return (
-                        <MatchCard key={key}>
-                            <div className='hour'>
-                                {game.time}
-                            </div>
-                            <div className='divisor'>
-                            </div>
-                            <div className='game'>
-                                <div className='homeTeam'>
-                                    <div className="image-container">
-                                        <img src={setFlag(game.homeTeam.flag)} alt="Home team flag" />
-                                    </div>
-                                    <h3>
-                                        {game.homeTeam.name}
-                                    </h3>
-                                </div>
-                                <div className='scoreboard'>
-                                    <div className='score'>
-                                        {game.homeGoals >= 0 ? game.homeGoals : ""}
-                                    </div>
-                                    X
-                                    <div className='score'>
-                                        {game.awayGoals >= 0 ? game.awayGoals : ""}
-                                    </div>
-                                </div>
-                                <div className='awayTeam'>
-                                    <h3>
-                                        {game.awayTeam.name}
-                                    </h3>
-                                    <div className="image-container">
-                                        <img src={setFlag(game.awayTeam.flag)} alt="Away team flag" />
-                                    </div>
-                                </div>
-                            </div>
-                        </MatchCard>
-                    )
-                })
-            }
-        </GroupMatchesContainer>
+        <TableGroupContainer>
+            <td className="title">
+                <p>
+                    {index}
+                </p>
+                <img src={setFlag(team.flag)} alt="Home team flag" />
+                <p>
+                    {team.name}
+                </p>
+            </td>
+            <td>
+                {team.points}
+            </td>
+            <td>
+                {team.wins}
+            </td>
+            <td>
+                {team.draws}
+            </td>
+            <td>
+                {team.loses}
+            </td>
+            <td>
+                {team.goalDif}
+            </td>
+            <td>
+                {team.matchesPlayed}
+            </td>
+        </TableGroupContainer>
     )
 }
