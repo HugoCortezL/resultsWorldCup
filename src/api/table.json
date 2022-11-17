@@ -1,0 +1,362 @@
+[
+    {
+        "group": "A",
+        "teams": [
+            {
+                "flag": "qatar-flag",
+                "name": "Catar",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "ecuador-flag",
+                "name": "Equador",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "senegal-flag",
+                "name": "Senegal",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "netherlands-flag",
+                "name": "Holanda",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    },
+    {
+        "group": "B",
+        "teams": [
+            {
+                "flag": "england-flag",
+                "name": "Inglaterra",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "iran-flag",
+                "name": "Irã",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "usa-flag",
+                "name": "Estados Unidos",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "wales-flag",
+                "name": "País de Gales",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    },
+    {
+        "group": "C",
+        "teams": [
+            {
+                "flag": "argentina-flag",
+                "name": "Argentina",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "arabia-flag",
+                "name": "Arábia Saudita",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "mexico-flag",
+                "name": "México",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "poland-flag",
+                "name": "Polônia",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    },
+    {
+        "group": "D",
+        "teams": [
+            {
+                "flag": "france-flag",
+                "name": "França",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "australia-flag",
+                "name": "Austrália",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "denmark-flag",
+                "name": "Dinamarca",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "tunisia-flag",
+                "name": "Tunísia",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    },
+    {
+        "group": "E",
+        "teams": [
+            {
+                "flag": "spain-flag",
+                "name": "Espanha",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "costaRica-flag",
+                "name": "Costa Rica",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "germany-flag",
+                "name": "Alemanha",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "japan-flag",
+                "name": "Japão",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    },
+    {
+        "group": "F",
+        "teams": [
+            {
+                "flag": "belgium-flag",
+                "name": "Bélgica",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "canada-flag",
+                "name": "Canadá",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "marrocos-flag",
+                "name": "Marrocos",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "croatia-flag",
+                "name": "Croácia",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    },
+    {
+        "group": "G",
+        "teams": [
+            {
+                "flag": "brazil-flag",
+                "name": "Brasil",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "serbia-flag",
+                "name": "Sérvia",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "switzerland-flag",
+                "name": "Suiça",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "cameroon-flag",
+                "name": "Camarões",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    },
+    {
+        "group": "H",
+        "teams": [
+            {
+                "flag": "portugal-flag",
+                "name": "Portugal",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "ghana-flag",
+                "name": "Gana",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "uruguay-flag",
+                "name": "Uruguai",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            },
+            {
+                "flag": "korea-flag",
+                "name": "Coreia do Sul",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "loses": 0,
+                "goalDif": 0,
+                "matchesPlayed": 0
+            }
+        ]
+    }
+]

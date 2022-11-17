@@ -1,0 +1,1124 @@
+[
+    {
+        "date": "20/11/2022",
+        "groups": [
+            {
+                "group": "Grupo A",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "qatar-flag",
+                            "name": "Catar"
+                        },
+                        "awayTeam": {
+                            "flag": "ecuador-flag",
+                            "name": "Equador"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "21/11/2022",
+        "groups": [
+            {
+                "group": "Grupo A",
+                "games": [
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "senegal-flag",
+                            "name": "Senegal"
+                        },
+                        "awayTeam": {
+                            "flag": "netherlands-flag",
+                            "name": "Holanda"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo B",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "england-flag",
+                            "name": "Inglaterra"
+                        },
+                        "awayTeam": {
+                            "flag": "iran-flag",
+                            "name": "Irã"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "usa-flag",
+                            "name": "Estados Unidos"
+                        },
+                        "awayTeam": {
+                            "flag": "wales-flag",
+                            "name": "País de Gales"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "22/11/2022",
+        "groups": [
+            {
+                "group": "Grupo C",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "argentina-flag",
+                            "name": "Argentina"
+                        },
+                        "awayTeam": {
+                            "flag": "arabia-flag",
+                            "name": "Arábia Saudita"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "mexico-flag",
+                            "name": "México"
+                        },
+                        "awayTeam": {
+                            "flag": "poland-flag",
+                            "name": "Polônia"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo D",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "denmark-flag",
+                            "name": "Dinamarca"
+                        },
+                        "awayTeam": {
+                            "flag": "tunisia-flag",
+                            "name": "Tunísia"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "france-flag",
+                            "name": "França"
+                        },
+                        "awayTeam": {
+                            "flag": "australia-flag",
+                            "name": "Austrália"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "23/11/2022",
+        "groups": [
+            {
+                "group": "Grupo E",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "germany-flag",
+                            "name": "Alemanha"
+                        },
+                        "awayTeam": {
+                            "flag": "japan-flag",
+                            "name": "Japão"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "spain-flag",
+                            "name": "Espanha"
+                        },
+                        "awayTeam": {
+                            "flag": "costaRica-flag",
+                            "name": "Costa Rica"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo F",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "marrocos-flag",
+                            "name": "Marrocos"
+                        },
+                        "awayTeam": {
+                            "flag": "croatia-flag",
+                            "name": "Croácia"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "belgium-flag",
+                            "name": "Bélgica"
+                        },
+                        "awayTeam": {
+                            "flag": "canada-flag",
+                            "name": "Canadá"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "24/11/2022",
+        "groups": [
+            {
+                "group": "Grupo G",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "switzerland-flag",
+                            "name": "Suiça"
+                        },
+                        "awayTeam": {
+                            "flag": "cameroon-flag",
+                            "name": "Camarões"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "brazil-flag",
+                            "name": "Brasil"
+                        },
+                        "awayTeam": {
+                            "flag": "serbia-flag",
+                            "name": "Sérvia"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo H",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "uruguay-flag",
+                            "name": "Uruguai"
+                        },
+                        "awayTeam": {
+                            "flag": "korea-flag",
+                            "name": "Coreia do Sul"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "portugal-flag",
+                            "name": "Portugal"
+                        },
+                        "awayTeam": {
+                            "flag": "ghana-flag",
+                            "name": "Gana"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "25/11/2022",
+        "groups": [
+            {
+                "group": "Grupo A",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "qatar-flag",
+                            "name": "Catar"
+                        },
+                        "awayTeam": {
+                            "flag": "senegal-flag",
+                            "name": "Senegal"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "netherlands-flag",
+                            "name": "Holanda"
+                        },
+                        "awayTeam": {
+                            "flag": "ecuador-flag",
+                            "name": "Equador"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo B",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "wales-flag",
+                            "name": "País de Gales"
+                        },
+                        "awayTeam": {
+                            "flag": "iran-flag",
+                            "name": "Irã"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "england-flag",
+                            "name": "Inglaterra"
+                        },
+                        "awayTeam": {
+                            "flag": "usa-flag",
+                            "name": "Estados Unidos"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "26/11/2022",
+        "groups": [
+            {
+                "group": "Grupo C",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "poland-flag",
+                            "name": "Polônia"
+                        },
+                        "awayTeam": {
+                            "flag": "arabia-flag",
+                            "name": "Arábia Saudita"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "argentina-flag",
+                            "name": "Argentina"
+                        },
+                        "awayTeam": {
+                            "flag": "mexico-flag",
+                            "name": "México"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo D",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "tunisia-flag",
+                            "name": "Tunísia"
+                        },
+                        "awayTeam": {
+                            "flag": "australia-flag",
+                            "name": "Austrália"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "france-flag",
+                            "name": "França"
+                        },
+                        "awayTeam": {
+                            "flag": "denmark-flag",
+                            "name": "Dinamarca"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "27/11/2022",
+        "groups": [
+            {
+                "group": "Grupo E",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "japan-flag",
+                            "name": "Japão"
+                        },
+                        "awayTeam": {
+                            "flag": "costaRica-flag",
+                            "name": "Costa Rica"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "spain-flag",
+                            "name": "Espanha"
+                        },
+                        "awayTeam": {
+                            "flag": "germany-flag",
+                            "name": "Alemanha"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo F",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "belgium-flag",
+                            "name": "Bélgica"
+                        },
+                        "awayTeam": {
+                            "flag": "marrocos-flag",
+                            "name": "Marrocos"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "croatia-flag",
+                            "name": "Croácia"
+                        },
+                        "awayTeam": {
+                            "flag": "canada-flag",
+                            "name": "Canadá"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "28/11/2022",
+        "groups": [
+            {
+                "group": "Grupo G",
+                "games": [
+                    {
+                        "time": "07h",
+                        "homeTeam": {
+                            "flag": "cameroon-flag",
+                            "name": "Camarões"
+                        },
+                        "awayTeam": {
+                            "flag": "serbia-flag",
+                            "name": "Sérvia"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "13h",
+                        "homeTeam": {
+                            "flag": "brazil-flag",
+                            "name": "Brasil"
+                        },
+                        "awayTeam": {
+                            "flag": "switzerland-flag",
+                            "name": "Suiça"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo H",
+                "games": [
+                    {
+                        "time": "10h",
+                        "homeTeam": {
+                            "flag": "korea-flag",
+                            "name": "Coreia do Sul"
+                        },
+                        "awayTeam": {
+                            "flag": "ghana-flag",
+                            "name": "Gana"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "portugal-flag",
+                            "name": "Portugal"
+                        },
+                        "awayTeam": {
+                            "flag": "uruguay-flag",
+                            "name": "Uruguai"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "29/11/2022",
+        "groups": [
+            {
+                "group": "Grupo A",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "ecuador-flag",
+                            "name": "Equador"
+                        },
+                        "awayTeam": {
+                            "flag": "senegal-flag",
+                            "name": "Senegal"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "netherlands-flag",
+                            "name": "Holanda"
+                        },
+                        "awayTeam": {
+                            "flag": "qatar-flag",
+                            "name": "Catar"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo B",
+                "games": [
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "iran-flag",
+                            "name": "Irã"
+                        },
+                        "awayTeam": {
+                            "flag": "usa-flag",
+                            "name": "Estados Unidos"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "wales-flag",
+                            "name": "País de Gales"
+                        },
+                        "awayTeam": {
+                            "flag": "england-flag",
+                            "name": "Inglaterra"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "30/11/2022",
+        "groups": [
+            {
+                "group": "Grupo C",
+                "games": [
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "poland-flag",
+                            "name": "Polônia"
+                        },
+                        "awayTeam": {
+                            "flag": "argentina-flag",
+                            "name": "Argentina"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "arabia-flag",
+                            "name": "Arábia Saudita"
+                        },
+                        "awayTeam": {
+                            "flag": "mexico-flag",
+                            "name": "México"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo D",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "tunisia-flag",
+                            "name": "Tunísia"
+                        },
+                        "awayTeam": {
+                            "flag": "france-flag",
+                            "name": "França"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "australia-flag",
+                            "name": "Austrália"
+                        },
+                        "awayTeam": {
+                            "flag": "denmark-flag",
+                            "name": "Dinamarca"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "01/12/2022",
+        "groups": [
+            {
+                "group": "Grupo E",
+                "games": [
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "japan-flag",
+                            "name": "Japão"
+                        },
+                        "awayTeam": {
+                            "flag": "spain-flag",
+                            "name": "Espanha"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "costaRica-flag",
+                            "name": "Costa Rica"
+                        },
+                        "awayTeam": {
+                            "flag": "germany-flag",
+                            "name": "Alemanha"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo F",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "croatia-flag",
+                            "name": "Croácia"
+                        },
+                        "awayTeam": {
+                            "flag": "belgium-flag",
+                            "name": "Bélgica"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "canada-flag",
+                            "name": "Canadá"
+                        },
+                        "awayTeam": {
+                            "flag": "marrocos-flag",
+                            "name": "Marrocos"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "02/12/2022",
+        "groups": [
+            {
+                "group": "Grupo G",
+                "games": [
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "serbia-flag",
+                            "name": "Sérvia"
+                        },
+                        "awayTeam": {
+                            "flag": "switzerland-flag",
+                            "name": "Suiça"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": "cameroon-flag",
+                            "name": "Camarões"
+                        },
+                        "awayTeam": {
+                            "flag": "brazil-flag",
+                            "name": "Brasil"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            },
+            {
+                "group": "Grupo H",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "korea-flag",
+                            "name": "Coreia do Sul"
+                        },
+                        "awayTeam": {
+                            "flag": "portugal-flag",
+                            "name": "Portugal"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": "ghana-flag",
+                            "name": "Gana"
+                        },
+                        "awayTeam": {
+                            "flag": "uruguay-flag",
+                            "name": "Uruguai"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "03/12/2022",
+        "groups": [
+            {
+                "group": "Oitavas de Final",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo A"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "2° Grupo B"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo C"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "1° Grupo D"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "04/12/2022",
+        "groups": [
+            {
+                "group": "Oitavas de Final",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo D"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "2° Grupo C"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo B"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "1° Grupo A"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "05/12/2022",
+        "groups": [
+            {
+                "group": "Oitavas de Final",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo E"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "2° Grupo F"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo G"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "1° Grupo H"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "06/12/2022",
+        "groups": [
+            {
+                "group": "Oitavas de Final",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo F"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "2° Grupo E"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "1° Grupo H"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "1° Grupo G"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "09/12/2022",
+        "groups": [
+            {
+                "group": "Quartas de Final",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 2"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 1"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 5"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 6"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "10/12/2022",
+        "groups": [
+            {
+                "group": "Quartas de Final",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 7"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 8"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    },
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 3"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Vencedor das oitavas 4"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "13/12/2022",
+        "groups": [
+            {
+                "group": "Semifinais",
+                "games": [
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Vencedor das quartas 1"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Vencedor das quartas 2"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14/12/2022",
+        "groups": [
+            {
+                "group": "Semifinais",
+                "games": [
+                    {
+                        "time": "16h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Vencedor das quartas 4"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Vencedor das quartas 3"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "17/12/2022",
+        "groups": [
+            {
+                "group": "Terceiro Lugar",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Perdedor semifinal 1"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Perdedor semifinal 2"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "18/12/2022",
+        "groups": [
+            {
+                "group": "Final",
+                "games": [
+                    {
+                        "time": "12h",
+                        "homeTeam": {
+                            "flag": null,
+                            "name": "Vencedor semifinal 1"
+                        },
+                        "awayTeam": {
+                            "flag": null,
+                            "name": "Vencedor semifinal 2"
+                        },
+                        "homeGoals": null,
+                        "awayGoals": null
+                    }
+                ]
+            }
+        ]
+    }
+]
